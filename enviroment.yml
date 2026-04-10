@@ -1,4 +1,4 @@
-name: çCursoGit
+name: Ejercicio1
 channels:
   - conda-forge
 dependencies:
